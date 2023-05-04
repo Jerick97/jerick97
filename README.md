@@ -16,7 +16,6 @@
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31lrfgxmm3boc5sjzlh2mr3o5q5e) <br>
 </div>
-<hr></hr>
 
   ---
   
@@ -46,17 +45,26 @@
   ---
   
 ## 🏆 GitHub Trophies
+
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=jerick97&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+ </div>
 
   ---
   
 ### ✍️ Random Dev Quote
+ 
+ <div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ </div>
 
   ---
   
 ### 🔝 Top Contributed Repo
+  
+  <div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=jerick97&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+ </div>
 
   ---
   
