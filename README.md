@@ -103,6 +103,7 @@
 
 </div>
 
+![Snake animation](https://github.com/{{jerick97}}/{{jerick97}}/blob/output/github-contribution-grid-snake.svg)
 
 ### 💰 You can help me by Donating
 
