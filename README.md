@@ -21,8 +21,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jerick97&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-### 😊 Random Image
-<img src="https://picsum.photos/512" width="512px"/>
+### 😊 Anime Gif
+<img src="https://thumbs.gfycat.com/JubilantAccurateBunny-size_restricted.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jerick97&icon=0&color=1)](https://visitcount.itsvg.in)
