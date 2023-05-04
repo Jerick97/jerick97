@@ -1,3 +1,8 @@
+<div align="center">
+![Your Name](https://giffiles.alphacoders.com/483/48368.gif)
+
+</div>
+
 <div align="center" width="50%">
 <p>"La música es como el código, ambas tienen el poder de transportarnos a lugares inexplorados y hacernos sentir emociones que nunca antes habíamos experimentado".</p>
 <br><br> Vibing to : 🎧  </strong></p>
