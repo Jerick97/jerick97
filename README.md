@@ -57,9 +57,11 @@
 <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif" width="75%"/>
 </div>
-
+<div align="center">
 [![](https://visitcount.itsvg.in/api?id=jerick97&icon=0&color=1)](https://visitcount.itsvg.in)
-
+</div>
 ### 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jerick97) 
+<div align="center">
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jerick97)
+</div>
 
