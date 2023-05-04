@@ -38,33 +38,44 @@
   ---
   
 # 📊 GitHub Stats:
+
+<div align="center">
+ 
 ![](https://github-readme-stats.vercel.app/api?username=jerick97&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jerick97&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerick97&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ 
+</div>
 
   ---
   
 ## 🏆 GitHub Trophies
 
 <div align="center">
+ 
 ![](https://github-profile-trophy.vercel.app/?username=jerick97&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+ 
  </div>
 
   ---
   
 ### ✍️ Random Dev Quote
  
- <div align="center">
+<div align="center">
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
- </div>
+ 
+</div>
 
   ---
   
 ### 🔝 Top Contributed Repo
-  
-  <div align="center">
+ 
+<div align="center">
+ 
 ![](https://github-contributor-stats.vercel.app/api?username=jerick97&limit=5&theme=algolia&combine_all_yearly_contributions=true)
- </div>
+ 
+</div>
 
   ---
   
