@@ -1,5 +1,8 @@
 # 💫 About Me:
-1.  En mi trabajo, soy un apasionado por el aprendizaje continuo y la colaboración en equipo, lo que me permite aportar nuevas soluciones y habilidades a cualquier proyecto.<br>2. Soy un autodidacta en constante evolución, que aprende de sus errores y se enfoca en la mejora continua, lo que me permite abordar nuevos proyectos con confianza y creatividad.<br>3. Soy un apasionado por la cultura japonesa, la música de los 80 y 90, y el cine, lo que me inspira a crear soluciones únicas en mi trabajo como programador.<br>4. Las habilidades blandas son esenciales para ser un programador front-end excepcional, incluyendo la comunicación efectiva, el pensamiento crítico y la capacidad de resolver problemas de manera creativa, lo que me permite crear experiencias de usuario atractivas y efectivas.
+1.  En mi trabajo, soy un apasionado por el aprendizaje continuo y la colaboración en equipo, lo que me permite aportar nuevas soluciones y habilidades a cualquier proyecto.
+2.  Soy un autodidacta en constante evolución, que aprende de sus errores y se enfoca en la mejora continua, lo que me permite abordar nuevos proyectos con confianza y creatividad.
+3.  Soy un apasionado por la cultura japonesa, la música de los 80 y 90, y el cine, lo que me inspira a crear soluciones únicas en mi trabajo como programador.
+4.  Las habilidades blandas son esenciales para ser un programador front-end excepcional, incluyendo la comunicación efectiva, el pensamiento crítico y la capacidad de resolver problemas de manera creativa, lo que me permite crear experiencias de usuario atractivas y efectivas.
 
 
 ## 🌐 Socials:
