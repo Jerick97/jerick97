@@ -2,7 +2,9 @@
  
 ![Your Name](https://giffiles.alphacoders.com/483/48368.gif)
  
-# ¡Hola Mundo! Soy Emerson Suarez, una mente creativa navegando hacia el futuro en busca de grandes retos. Si las estrellas fugaces pueden cumplir sus sueños en segundos, ¿qué podemos lograr juntos en el tiempo que tenemos? ¡Construyamos algo increíble!
+# ¡Hola Mundo! Soy Emerson Suarez
+
+<p style="font-size: 24px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px;">una mente creativa navegando hacia el futuro en busca de grandes retos. Si las estrellas fugaces pueden cumplir sus sueños en segundos, ¿qué podemos lograr juntos en el tiempo que tenemos? ¡Construyamos algo increíble!</p>
 
 </div>
 
