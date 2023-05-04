@@ -103,10 +103,6 @@
 
 </div>
 
-<div align="center">
-<img src="https://platane.github.io/snk/" width="75%"/>
-</div>
-
 ### 💰 You can help me by Donating
 
 <div align="center">
