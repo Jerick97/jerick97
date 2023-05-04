@@ -1,9 +1,9 @@
+<div align="center" width="50%">
 <p>"La música es como el código, ambas tienen el poder de transportarnos a lugares inexplorados y hacernos sentir emociones que nunca antes habíamos experimentado".</p>
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31lrfgxmm3boc5sjzlh2mr3o5q5e) <br>
 </div>
-
 <hr></hr>
 
 # 💫 About Me:
@@ -36,7 +36,7 @@
 <img src="https://thumbs.gfycat.com/JubilantAccurateBunny-size_restricted.gif" width="512px"/>
 
 ### 😎 Dino Gif
-<img src="https://thumbs.gfycat.com/JubilantAccurateBunny-size_restricted.gif" width="75%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif" width="75%"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jerick97&icon=0&color=1)](https://visitcount.itsvg.in)
