@@ -33,7 +33,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jerick97&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ### 😊 Anime Gif
-<img src="https://thumbs.gfycat.com/JubilantAccurateBunny-size_restricted.gif" width="512px"/>
+<img src="https://www.azulweb.net/wp-content/uploads/2016/10/Golden-Boy.gif" width="75%"/>
 
 ### 😎 Dino Gif
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif" width="75%"/>
