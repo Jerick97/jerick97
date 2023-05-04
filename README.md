@@ -1,3 +1,11 @@
+<p>"La música es como el código, ambas tienen el poder de transportarnos a lugares inexplorados y hacernos sentir emociones que nunca antes habíamos experimentado".</p>
+<br><br> Vibing to : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31lrfgxmm3boc5sjzlh2mr3o5q5e) <br>
+</div>
+
+<hr></hr>
+
 # 💫 About Me:
 1.  En mi trabajo, soy un apasionado por el aprendizaje continuo y la colaboración en equipo, lo que me permite aportar nuevas soluciones y habilidades a cualquier proyecto.
 2.  Soy un autodidacta en constante evolución, que aprende de sus errores y se enfoca en la mejora continua, lo que me permite abordar nuevos proyectos con confianza y creatividad.
@@ -26,6 +34,9 @@
 
 ### 😊 Anime Gif
 <img src="https://thumbs.gfycat.com/JubilantAccurateBunny-size_restricted.gif" width="512px"/>
+
+### 😎 Dino Gif
+<img src="https://thumbs.gfycat.com/JubilantAccurateBunny-size_restricted.gif" width="75%"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jerick97&icon=0&color=1)](https://visitcount.itsvg.in)
