@@ -111,5 +111,6 @@
   
 </div>
 
-[![Watch the video](https://img.youtube.com/vi/bvNZeh6f8vE/maxresdefault.jpg)](https://www.youtube.com/watch?v=bvNZeh6f8vE)
+
+[![Watch the video](https://i.imgur.com/bvNZeh6f8vE.png)](https://youtu.be/bvNZeh6f8vE)
 
