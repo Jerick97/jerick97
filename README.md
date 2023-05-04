@@ -37,12 +37,10 @@
 <div align="center">
 <img src="https://www.azulweb.net/wp-content/uploads/2016/10/Golden-Boy.gif" width="75%"/>
 </div>
-  ---
 ### 😎 Dino Gif
 <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif" width="75%"/>
 </div>
-  ---
 [![](https://visitcount.itsvg.in/api?id=jerick97&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
