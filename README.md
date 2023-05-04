@@ -99,7 +99,7 @@
 
 <div align="center">
   
-<img src="[https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif](https://j.gifs.com/KRPVlE.gif)" width="75%"/>
+<img src="https://j.gifs.com/KRPVlE.gif" width="75%"/>
   
 </div>
 
