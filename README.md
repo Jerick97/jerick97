@@ -111,6 +111,3 @@
   
 </div>
 
-
-[![Watch the video](https://i.imgur.com/bvNZeh6f8vE.png)](https://youtu.be/bvNZeh6f8vE)
-
