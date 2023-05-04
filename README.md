@@ -103,7 +103,9 @@
 
 </div>
 
-![Snake animation](https://github.com/{{jerick97}}/{{jerick97}}/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img src="https://platane.github.io/snk/" width="75%"/>
+</div>
 
 ### 💰 You can help me by Donating
 
