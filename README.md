@@ -90,11 +90,6 @@ Mi enfoque principal es crear experiencias de usuario excepcionales y funcionale
 
   ---
 
-### 😂 Random Dev Meme
-<div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
- 
 ### 😊 Anime Gif
 <div align="center">
 <img src="https://www.azulweb.net/wp-content/uploads/2016/10/Golden-Boy.gif" width="75%"/>
