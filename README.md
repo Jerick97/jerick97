@@ -37,6 +37,19 @@ Mi enfoque principal es crear experiencias de usuario excepcionales y funcionale
 
   ---
 
+  # 🌟 Featured projects
+
+Aquí encontrarás los enlaces a algunos de mis proyectos más recientes:
+
+| Proyecto | Descripción | Vista previa |
+|----------|-------------|--------|
+| <strong>TeamScore</strong> | <div align="center">"Una herramienta de feedback parametrizable que simplifica la evaluación de grupos, con gestión centralizada y posibilidad de importar/exportar datos, facilitando un proceso eficiente y rápido." <br><br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/No-Country/s14-17-t-java) | ![TeamScore](https://res.cloudinary.com/djtzqnrmy/image/upload/v1714340412/Readme/zpyvyypcoqolmmow5kkc.jpg)</div> |
+| Proyecto 2 | Breve descripción del proyecto | ![Imagen Proyecto 2](url_imagen_proyecto_2) |
+| Proyecto 3 | Breve descripción del proyecto | ![Imagen Proyecto 3](url_imagen_proyecto_3) |
+| Proyecto 4 | Breve descripción del proyecto | ![Imagen Proyecto 4](url_imagen_proyecto_4) |
+
+  ---
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jerick97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emerson-suarez97) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jerick97) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jerickpc97) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Jerick97) 
 
