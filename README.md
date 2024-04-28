@@ -2,16 +2,20 @@
  
 ![Jerick97](https://res.cloudinary.com/djtzqnrmy/image/upload/v1714332783/Readme/oxacentmpwbdonnlzjei.png)
  
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">¡Hola Mundo! Soy Emerson Suarez 😎
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">¡Hola Mundo! 😎
 
-<p style="font-size: 24px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px;">Una mente creativa navegando hacia el futuro en busca de grandes retos. Si las estrellas fugaces pueden cumplir sus sueños en segundos, ¿qué podemos lograr juntos en el tiempo que tenemos? ¡Construyamos algo increíble!</p>
+<p style="font-size: 24px; font-weight: bold; text-transform: uppercase; letter-spacing: 3px;">Soy <strong>Emerson Suarez</strong>, un apasionado desarrollador web frontend con 8 meses de experiencia en la industria. Durante mi carrera, he tenido el privilegio de trabajar en una variedad de proyectos emocionantes que me han permitido crecer profesionalmente y expandir mis habilidades técnicas.
+
+Mi enfoque principal es crear experiencias de usuario excepcionales y funcionales utilizando las últimas tecnologías y mejores prácticas en el desarrollo web. Estoy constantemente buscando desafíos que me permitan aprender y crecer, y estoy emocionado de colaborar en proyectos ambiciosos que impulsen la innovación y la creatividad.</p>
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Jerick97.jerick97)](https://github.com/Jerick97) [![GitHub followers](https://img.shields.io/github/followers/jerick97.svg?style=social&label=Follow)](https://github.com/jerick97?tab=followers)
 
 </div>
 
   ---
 
 <div align="center" width="50%">
-<p>"La música es como el código, ambas tienen el poder de transportarnos a lugares inexplorados y hacernos sentir emociones que nunca antes habíamos experimentado".</p>
+<p>"La música y el código comparten la fascinante capacidad de transportarnos a mundos desconocidos, desbloqueando emociones que nunca antes habíamos sentido."</p>
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31lrfgxmm3boc5sjzlh2mr3o5q5e) <br>
