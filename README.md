@@ -43,10 +43,10 @@ Aquí encontrarás los enlaces a algunos de mis proyectos más recientes:
 
 | Proyecto | Descripción | Vista previa |
 |----------|-------------|--------|
-| <strong>TeamScore</strong> | <div align="center">"Una herramienta de feedback parametrizable que simplifica la evaluación de grupos, con gestión centralizada y posibilidad de importar/exportar datos, facilitando un proceso eficiente y rápido." <br><br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/No-Country/s14-17-t-java) | ![TeamScore](https://res.cloudinary.com/djtzqnrmy/image/upload/v1714340412/Readme/zpyvyypcoqolmmow5kkc.jpg)</div> |
+| <div align="center"><strong>TeamScore</strong></div> | <div align="center">"Una herramienta de feedback parametrizable que simplifica la evaluación de grupos, con gestión centralizada y posibilidad de importar, exportar datos, facilitando un proceso eficiente y rápido." <br><br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/No-Country/s14-17-t-java) [![Deploy](https://img.shields.io/badge/Deploy-Link-green?logo=github)](https://team-score.vercel.app/login)| ![TeamScore](https://res.cloudinary.com/djtzqnrmy/image/upload/v1714340412/Readme/zpyvyypcoqolmmow5kkc.jpg)</div> |
 | Proyecto 2 | Breve descripción del proyecto | ![Imagen Proyecto 2](url_imagen_proyecto_2) |
 | Proyecto 3 | Breve descripción del proyecto | ![Imagen Proyecto 3](url_imagen_proyecto_3) |
-| Proyecto 4 | Breve descripción del proyecto | ![Imagen Proyecto 4](url_imagen_proyecto_4) |
+| <div align="center"><strong>MDP-PRY-SistemaDePlanillas</strong></div> | <div align="center">"El Sistema de Planillas MDP, desarrollado con React.js, Spring Boot y Postgres, optimiza la gestión de nóminas y salarios en MDP. Ofrece funcionalidades avanzadas con una interfaz intuitiva y alta seguridad." <br><br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/No-Country/s14-17-t-java) [![Deploy](https://img.shields.io/badge/Deploy-Link-green?logo=github)](https://team-score.vercel.app/login)| ![Imagen Proyecto 4](https://res.cloudinary.com/djtzqnrmy/image/upload/v1714341658/Readme/vc6hrl8o2au4jjmzaulr.jpg) |
 
   ---
 
