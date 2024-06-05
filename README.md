@@ -4,7 +4,7 @@
  
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">¡Hola Mundo! 😎
 
-<p style="font-size: 24px; font-weight: bold; text-transform: uppercase; letter-spacing: 3px;">Soy <strong>Emerson Suarez</strong>, un apasionado desarrollador web frontend con 8 meses de experiencia en la industria. Durante mi carrera, he tenido el privilegio de trabajar en una variedad de proyectos emocionantes que me han permitido crecer profesionalmente y expandir mis habilidades técnicas.
+<p style="font-size: 24px; font-weight: bold; text-transform: uppercase; letter-spacing: 3px;">Soy <strong>Emerson Suarez</strong>, un apasionado desarrollador web frontend con 10 meses de experiencia en la industria. Durante mi carrera, he tenido el privilegio de trabajar en una variedad de proyectos emocionantes que me han permitido crecer profesionalmente y expandir mis habilidades técnicas.
 
 Mi enfoque principal es crear experiencias de usuario excepcionales y funcionales utilizando las últimas tecnologías y mejores prácticas en el desarrollo web. Estoy constantemente buscando desafíos que me permitan aprender y crecer, y estoy emocionado de colaborar en proyectos ambiciosos que impulsen la innovación y la creatividad.</p>
 
