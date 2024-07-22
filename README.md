@@ -17,8 +17,8 @@ Mi enfoque principal es crear experiencias de usuario excepcionales y funcionale
 <div align="center" width="50%">
 <p>"La música y el código comparten la fascinante capacidad de transportarnos a mundos desconocidos, desbloqueando emociones que nunca antes habíamos sentido."</p>
 <br><br> Vibing to : 🎧  </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31lrfgxmm3boc5sjzlh2mr3o5q5e) <br>
+ 
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31lrfgxmm3boc5sjzlh2mr3o5q5e) <br>
 </div>
 
   ---
@@ -43,6 +43,7 @@ Aquí encontrarás los enlaces a algunos de mis proyectos más recientes:
 
 | Proyecto | Descripción | Vista previa |
 |----------|-------------|--------|
+| <div align="center"><strong>AlmuerziEasy</strong></div> | <div align="center">"AlmuerziEasy facilita la creación de órdenes según el menú del día, ofreciendo servicios de seguimiento de pedidos, carrito de compras, registro y login. Disfruta de comida rápida y deliciosa con nosotros." <br><br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Jerick97/AlmuerziEasy) [![Deploy](https://img.shields.io/badge/Deploy-Link-green?logo=github)](https://almuerzieasy.vercel.app/)| ![AlmuerziEasy](https://res.cloudinary.com/djtzqnrmy/image/upload/v1721607461/Readme/utaqwpp33fqz2wmjbbj3.png)</div> |
 | <div align="center"><strong>Amplify</strong></div> | <div align="center">"Amplify es una plataforma web de música diseñada para que cualquier persona pueda compartir y descubrir música con facilidad." <br><br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Jerick97/s15-05-amplify-app) [![Deploy](https://img.shields.io/badge/Deploy-Link-green?logo=github)](https://amplify-nocountry.netlify.app/)| ![Amplify](https://res.cloudinary.com/djtzqnrmy/image/upload/v1718919131/Readme/yctshhybqpvdmwy2rfzs.png)</div> |
 | <div align="center"><strong>TeamScore</strong></div> | <div align="center">"Una herramienta de feedback parametrizable que simplifica la evaluación de grupos, con gestión centralizada y posibilidad de importar, exportar datos, facilitando un proceso eficiente y rápido." <br><br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Jerick97/s14-17-t-java) [![Deploy](https://img.shields.io/badge/Deploy-Link-green?logo=github)](https://team-score.vercel.app/login)| ![TeamScore](https://res.cloudinary.com/djtzqnrmy/image/upload/v1714340412/Readme/zpyvyypcoqolmmow5kkc.jpg)</div> |
 | <div align="center"><strong>Ticket Bus</strong></div> | <div align="center">"Simplificando la reserva de viajes en autobús y ofreciendo promociones exclusivas. La solución digital para empresas de transporte y viajeros." <br><br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Jerick97/s13-06-t-node-react) [![Deploy](https://img.shields.io/badge/Deploy-Link-green?logo=github)](https://ticket-bus.netlify.app/)| ![Imagen Proyecto 2](https://res.cloudinary.com/djtzqnrmy/image/upload/v1714346071/Readme/ihx2dz5phrc4wz2ldtof.png) |
