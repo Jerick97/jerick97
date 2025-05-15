@@ -50,10 +50,6 @@ Aquí encontrarás los enlaces a algunos de mis proyectos más recientes:
 | <div align="center"><strong>Freewind</strong></div> | <div align="center">"Descubre y planifica viajes personalizados con nuestra plataforma intuitiva y avanzada. Regístrate fácilmente y disfruta de una búsqueda inteligente para encontrar experiencias inolvidables." <br><br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Jerick97/C15-10-t-node-react) [![Deploy](https://img.shields.io/badge/Deploy-Link-green?logo=github)](https://freewind-main.netlify.app)| ![Imagen Proyecto 3](https://res.cloudinary.com/djtzqnrmy/image/upload/v1714345612/Readme/w4cxgpb8urmts0khocbt.png) |
 | <div align="center"><strong>MDP-PRY-SistemaDePlanillas</strong></div> | <div align="center">"El Sistema de Planillas MDP, desarrollado con React.js, Spring Boot y Postgres, optimiza la gestión de nóminas y salarios en MDP. Ofrece funcionalidades avanzadas con una interfaz intuitiva y alta seguridad." <br><br> [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Jerick97/MDP-PRY-SistemaDePlanillas-Frontend) [![Deploy](https://img.shields.io/badge/Deploy-Link-green?logo=github)](https://mdp-sistema-de-planillas.vercel.app/)| ![Imagen Proyecto 4](https://res.cloudinary.com/djtzqnrmy/image/upload/v1714341658/Readme/vc6hrl8o2au4jjmzaulr.jpg) |
 
-  ---
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jerick97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emerson-suarez97) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jerick97) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jerickpc97) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Jerick97) 
 
   ---
   
